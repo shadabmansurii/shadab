@@ -1,2 +1,3 @@
 # shadab
-this is my first repo <br> author-indrajeet  gupta
+this is my first repo <br>
+ author-indrajeet (gupta)
